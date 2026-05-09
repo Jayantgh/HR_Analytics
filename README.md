@@ -16,6 +16,6 @@ Excel, SQL, Power BI
 Sample HR Attrition dataset containing Attrition Status,	Business Travel,	CF_age band,	CF_attrition label,	Department,	Education Field, Employee Number,	Gender,	Job Role,	Marital Status,	Over Time,	Training Times,  Distance From Home,	Education, Environment Satisfaction,	Job Level,	Job Satisfaction,	Monthly Income,	Salary Hike	Performance Rating,	Relationship Satisfaction,	Work Life Balance,	Years At Company,	Years In Current Role,	Years Since Last Promotion,	Years With Curr Manager
 
 ## Key Steps
-SQL (MSSQL) — Data cleaning, staging, aggregations, window functions
-Power BI — DAX measures, Power Query (M), interactive dashboards
-Power Query — Data type handling, custom column transformations
+1. SQL (MSSQL) — Data cleaning, staging, aggregations, window functions
+2. Power BI — DAX measures, Power Query (M), interactive dashboards
+3. Power Query — Data type handling, custom column transformations
