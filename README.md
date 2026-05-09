@@ -19,3 +19,22 @@ Sample HR Attrition dataset containing Attrition Status,	Business Travel,	CF_age
 1. SQL (MSSQL) — Data cleaning, staging, aggregations, window functions
 2. Power BI — DAX measures, Power Query (M), interactive dashboards
 3. Power Query — Data type handling, custom column transformations
+
+## Key Insights
+- Employees who work overtime and travel frequently face the highest attrition in the entire dataset — nearly 3× the
+company average. Overtime is the single strongest risk multiplier identified.
+- Employees scoring their WLB as 'Poor' (Score 1) show 31.25% attrition — more than double those rating it 'Good'.
+WLB scores function as a leading indicator before formal resignation signals appear.
+- Sales Representatives face the highest role-level attrition at 39.76%. Lab Technicians (23.94%) and HR employees
+(23.08%) also significantly exceed the 16.12% company benchmark.
+
+## Recommendations
+- Target the highest-risk employee segments first
+- Reduce structural overtime and travel burden
+- Embed real-time satisfaction monitoring in HR
+- 
+## Files Included
+- HR Data.csv
+- HR MANAGEMENT Projects.ipynb
+- HR_Analytics_Project.sql
+- HR_Attrition_Project.pdf
